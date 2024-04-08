@@ -71,7 +71,6 @@ body {
     background: transparent;
     font-size: 24px;
     text-align: center;
-
 }
 
 .wrapper .input-box {
@@ -112,6 +111,17 @@ label:hover {
     align-content: center;
     outline: none;
     margin: 10px 145px;
+}
+
+.wrapper .btn1 {
+    width: 75px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0 3px gray;
+    align-content: center;
+    outline: none;
+    margin: 10px 50px;
 }
 
 .btn:hover {
